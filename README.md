@@ -54,6 +54,7 @@ Model Link-https://drive.google.com/file/d/18RJzu35vyuMgpcAE590u1IaDvHY3-SWq/vie
 ## Internship Details
 
 - **Internship Type**: AICTE Virtual Internship - Edunet Foundation
+- Intern Name**: Vishal Kumar
 - **Sponsor**: Shell  
 - **Duration**: June 2025 (1 month)  
 - **Focus Area**: Machine Learning in Environmental Monitoring  
